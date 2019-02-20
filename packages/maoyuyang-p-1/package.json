@@ -1,0 +1,13 @@
+{
+  "name": "p-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "gitHead": "82c857e203727c9111774958d407fc0ad7a26277"
+}

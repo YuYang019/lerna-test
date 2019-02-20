@@ -1,0 +1,21 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "changelog": {
+    "repo": "maoyuyang/lerna",
+    "labels": {
+      "enhancement": ":rocket: Enhancement",
+      "tag: bugfix": ":bug: Bug Fix",
+      "doc": "Refine Doc",
+      "feat": "New Feature"
+    },
+    "cacheDir": ".changelog"
+  },
+  "command": {
+    "publish": {
+      "message": "chore(release): publish"
+    }
+  },
+  "version": "independent"
+}
