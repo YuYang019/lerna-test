@@ -1,6 +1,6 @@
 {
-  "name": "maoyuyang-p-1",
-  "version": "1.0.3",
+  "name": "maoyuyang-p-4",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "gitHead": "82c857e203727c9111774958d407fc0ad7a26277"
+  "license": "ISC"
 }
