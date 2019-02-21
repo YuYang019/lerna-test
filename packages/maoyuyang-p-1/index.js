@@ -6,5 +6,6 @@ const e = 5
 const f = 6
 
 var ccc = 1
+var ddd = 2
 
 function name () {}
