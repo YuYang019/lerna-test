@@ -9,3 +9,5 @@ var ccc = 1
 var ddd = 2
 
 function name () {}
+
+function bugfix () {}
