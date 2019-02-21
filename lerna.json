@@ -3,7 +3,7 @@
     "packages/*"
   ],
   "changelog": {
-    "repo": "maoyuyang/lerna",
+    "repo": "maoyuyang/lerna-test",
     "labels": {
       "enhancement": ":rocket: Enhancement",
       "tag: bugfix": ":bug: Bug Fix",
