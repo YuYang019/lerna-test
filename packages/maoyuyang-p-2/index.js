@@ -4,3 +4,4 @@ const s = 4
 const aa = 1
 
 var a = 1
+var ccc = 2
